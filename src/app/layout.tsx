@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 
 export const metadata: Metadata = {
   title: 'Homie Docs - Curated Web Resources',
-  description: 'Your personal collection of categorized website links, easily managed and discovered.',
+  description: 'Your curated hub for discovering valuable online resources.',
 };
 
 export default function RootLayout({
