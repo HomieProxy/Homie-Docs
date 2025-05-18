@@ -3,6 +3,13 @@ import type { Category } from '@/types';
 
 export const CATEGORIES: Category[] = [
   {
+    id: "research-articles",
+    name: "Research & Articles",
+    description: "Search engines and databases where you can quickly discover peer-reviewed articles, journals, and other scholarly papers across every discipline.",
+    icon: "Lightbulb",
+    source: "/research-articles.md", // Path relative to public directory
+  },
+  {
     id: "dev-tools",
     name: "Developer Tools",
     description: "Essential tools for building and deploying software.",
