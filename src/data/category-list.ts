@@ -28,7 +28,7 @@ export const CATEGORIES: Category[] = [
     name: "Entertainment",
     description: ".",
     icon: "Play",
-    source: "/entertainment.md", // Path relative to public directory
+    source: "https://github.com/HomieProxy/Homie-Docs/raw/refs/heads/dev/public/entertainment.md", // Path relative to public directory
   },
   {
     id: "learning-platforms",
