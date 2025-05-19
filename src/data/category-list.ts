@@ -24,6 +24,13 @@ export const CATEGORIES: Category[] = [
     source: "/design-resources.md", // Path relative to public directory
   },
   {
+    id: "entertainment",
+    name: "Entertainment",
+    description: ".",
+    icon: "Play",
+    source: "/entertainment.md", // Path relative to public directory
+  },
+  {
     id: "learning-platforms",
     name: "Learning Platforms",
     description: "Online courses and educational resources to expand your skills.",
